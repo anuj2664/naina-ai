@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="7a710ed7-21bc-4df8-a9bb-b3f1145c4b98" src="https://github.com/user-attachments/assets/c79822f8-69d6-4803-8065-5c5758069ede" />
+
 # NAINA AI
 
 ## 🚀 Overview
@@ -58,5 +58,5 @@ Contributions, feature requests, and bug reports are welcome.
 
 ## ⭐ Support
 
-If you like this project, please consider giving it a ⭐ on Gi<img width="1402" height="1122" alt="7dd4316b-a4e3-4f35-a485-b362b5570783" src="https://github.com/user-attachments/assets/7d3aeec8-5548-4717-a16b-41ce9450cdcb" />
+If you like this project, please consider giving it a ⭐ 
 tHub.

@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="7a710ed7-21bc-4df8-a9bb-b3f1145c4b98" src="https://github.com/user-attachments/assets/c79822f8-69d6-4803-8065-5c5758069ede" />
 # NAINA AI
 
 ## 🚀 Overview

@@ -98,7 +98,7 @@ git clone https://github.com/anuj2664/naina-ai.git
 
 # Navigate to the project folder
 cd naina-ai
-
+#pip install -r requirements.txt
 # Install dependencies
 npm install
 
